@@ -11,7 +11,7 @@ await page.goto().click();
 
 //after connecting to imagine let se im able to push it or not :))
 
-
+/// wahh its connecting viua iamge also gooddddd
 
 
 
